@@ -1,0 +1,13 @@
+C:\Users\YeisonPX\source\repos\CajeroAutomaticoFDP\CajeroAutomaticoFDP\bin\Debug\netcoreapp3.1\CajeroAutomaticoFDP.exe
+C:\Users\YeisonPX\source\repos\CajeroAutomaticoFDP\CajeroAutomaticoFDP\bin\Debug\netcoreapp3.1\CajeroAutomaticoFDP.deps.json
+C:\Users\YeisonPX\source\repos\CajeroAutomaticoFDP\CajeroAutomaticoFDP\bin\Debug\netcoreapp3.1\CajeroAutomaticoFDP.runtimeconfig.json
+C:\Users\YeisonPX\source\repos\CajeroAutomaticoFDP\CajeroAutomaticoFDP\bin\Debug\netcoreapp3.1\CajeroAutomaticoFDP.runtimeconfig.dev.json
+C:\Users\YeisonPX\source\repos\CajeroAutomaticoFDP\CajeroAutomaticoFDP\bin\Debug\netcoreapp3.1\CajeroAutomaticoFDP.dll
+C:\Users\YeisonPX\source\repos\CajeroAutomaticoFDP\CajeroAutomaticoFDP\bin\Debug\netcoreapp3.1\CajeroAutomaticoFDP.pdb
+C:\Users\YeisonPX\source\repos\CajeroAutomaticoFDP\CajeroAutomaticoFDP\obj\Debug\netcoreapp3.1\CajeroAutomaticoFDP.csprojAssemblyReference.cache
+C:\Users\YeisonPX\source\repos\CajeroAutomaticoFDP\CajeroAutomaticoFDP\obj\Debug\netcoreapp3.1\CajeroAutomaticoFDP.AssemblyInfoInputs.cache
+C:\Users\YeisonPX\source\repos\CajeroAutomaticoFDP\CajeroAutomaticoFDP\obj\Debug\netcoreapp3.1\CajeroAutomaticoFDP.AssemblyInfo.cs
+C:\Users\YeisonPX\source\repos\CajeroAutomaticoFDP\CajeroAutomaticoFDP\obj\Debug\netcoreapp3.1\CajeroAutomaticoFDP.csproj.CoreCompileInputs.cache
+C:\Users\YeisonPX\source\repos\CajeroAutomaticoFDP\CajeroAutomaticoFDP\obj\Debug\netcoreapp3.1\CajeroAutomaticoFDP.dll
+C:\Users\YeisonPX\source\repos\CajeroAutomaticoFDP\CajeroAutomaticoFDP\obj\Debug\netcoreapp3.1\CajeroAutomaticoFDP.pdb
+C:\Users\YeisonPX\source\repos\CajeroAutomaticoFDP\CajeroAutomaticoFDP\obj\Debug\netcoreapp3.1\CajeroAutomaticoFDP.genruntimeconfig.cache
